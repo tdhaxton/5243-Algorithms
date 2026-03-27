@@ -44,8 +44,7 @@ Here is the organization for 'Program 02''s
 |   └── 📕workload_generator.cpp
 ├── 📁 work_files
 |   └── 📕 ds_cat_qty.json
-├── 📁 z_reference_removed
-└── 📕README.md
+└── 📁 z_reference_removed
 ```
 
 Where the 'src' folder holds all the 'hpp's' in the 'include' folder and the 'tests' folder containing the 'test_ds.cpp' file that compiles and runs each file contained in the 'workloads' folder. These files were generated from the 'batch.sh' file that contains a script to execute the contents of the 'workload_generator.cpp' file. The resulting 'test_ds.cpp' files are contained in the 'work_files' folder. Finally, the 'z_reference_removed' folder contains files that were provided for this project by rugbyprof, but are not needed for the final test or output.
