@@ -3,7 +3,7 @@
 ### Provided to Me
 
 The original location of the files included in this project can be found here:
-[RugbyProf's 5243 Algorithms P02](https://github.com/rugbyprof/5243-Algorithms/blob/main/Assignments/05-P02/README.md)
+[RugbyProf's 5243 Algorithms P02](https://github.com/rugbyprof/5243-Algorithms/tree/main/Assignments/05-P02)
 
 C++ implementations for:
 
