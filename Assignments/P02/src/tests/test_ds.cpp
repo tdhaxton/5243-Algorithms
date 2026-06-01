@@ -1,5 +1,3 @@
-// ! TODO: Fails at array (runs bst and hash); throws instance of std::bad_alloc
-
 #include "dataStructure.hpp"
 #include "bst.hpp"
 #include "hashTable.hpp"
